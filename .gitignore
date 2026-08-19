@@ -1,0 +1,19 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Generated test case files
+output/*.xlsx
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
